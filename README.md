@@ -1,6 +1,5 @@
 <p align="center">
   <img src="doc/logo.jpg" alt="a start project for Dan"><br>
-  A start project for Dan's front-end exploits
 </p>
 
 ### Intro
